@@ -18,18 +18,20 @@
 ## 🛠 Tech Stack
 
 ### Languages
+
 <div>
 <img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
 <img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
-<img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 1px solid white">
+<img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
 <img title="Typescript" src="https://logo.letskhabar.com/img?tool=typescript" width="50px">
 <img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px">
 <img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px">
-<img title="Solidity" src="https://docs.soliditylang.org/en/v0.8.1/_images/logo.svg" width="50px" style="border: 1px solid white">
+<img title="Solidity" src="https://docs.soliditylang.org/en/v0.8.1/_images/logo.svg" width="50px" style="border: 2px solid white">
 </div>
 
 ### Frameworks
 
+<div>
 <img title="Spring" src="https://logo.letskhabar.com/img?tool=spring" width="50px">
 <img title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50px" style="border: 1px solid white">
 <img title="Spring cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
@@ -39,18 +41,22 @@
 <img title="Spring Data" src="https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png" width="50px" height="50px" style="border: 1px solid white">
 <img title="Flutter" src="https://logo.letskhabar.com/img?tool=flutter" width="50px">
 <img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
+</div>
 
 ### Databases
 
+<div>
 <img title="MySql" src="https://logo.letskhabar.com/img?tool=mysql" width="50px">
 <img title="ElasticSearch" src="https://logo.letskhabar.com/img?tool=elasticsearch" width="50px">
 <img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px">
 <img title="Oracle" src="https://logo.letskhabar.com/img?tool=oracle" width="50px">
 <img title="PostgresSql" src="https://logo.letskhabar.com/img?tool=postgresql" width="50px">
 <img title="MariaDB" src="https://logo.letskhabar.com/img?tool=mariadb" width="50px">
+</div>
 
 ### CI/CD and DevOps
 
+<div>
 <img title="Jenkins" src="https://logo.letskhabar.com/img?tool=jenkins" width="50px">
 <img title="Travis" src="https://logo.letskhabar.com/img?tool=travis" width="50px">
 <img title="Docker" src="https://logo.letskhabar.com/img?tool=docker" width="50px">
@@ -58,3 +64,5 @@
 <img title="Helm" src="https://helm.sh/img/helm.svg" width="50px" height="50px" style="border: 1px solid white">
 <img title="FluxCD" src="https://docs.fluxcd.io/en/1.21.1/_files/flux-icon@2x.png" width="50px" height="50px" style="border: 1px solid white">
 <img title="Istio" src="https://istio.io/latest/img/istio-whitelogo-bluebackground-unframed.svg" width="50px" height="50px" style="border: 1px solid white">
+</div>
+
