@@ -24,6 +24,7 @@
 <img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
 <img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
 <img title="Typescript" src="https://logo.letskhabar.com/img?tool=typescript" width="50px">
+<img title="Scala" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" width="50px" style="border: 2px solid white">
 <img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px">
 <img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px">
 <img title="Bash" src="https://www.cyberciti.biz/media/new/category/old/terminal.png" width="50px" style="border: 2px solid white">
