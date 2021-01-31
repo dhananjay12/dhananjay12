@@ -98,6 +98,6 @@
 <img title="NPM" src="https://logo.letskhabar.com/img?tool=npm" width="50px" height="30px">
 <img title="Jhipster" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="Debezium" src="https://pbs.twimg.com/profile_images/790917668517752832/IkKA5JgJ_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Keycloak" src="hhttps://aws1.discourse-cdn.com/free1/uploads/keycloak/original/1X/eb342909d95cf32cbb7517610022c6a0046a9ffb.png" width="50px" height="40px" style="border: 1px solid white">
+<img title="Keycloak" src="https://aws1.discourse-cdn.com/free1/uploads/keycloak/original/1X/eb342909d95cf32cbb7517610022c6a0046a9ffb.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="OpenAPI" src="https://pbs.twimg.com/profile_images/950508436935995393/L8C2-2bd_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
 </div>
