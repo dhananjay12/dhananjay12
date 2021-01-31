@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dhananjay a.k.a Dj</h1>
+<h1 align="center">Hi 👋, I'm Dhananjay a.k.a Dj </h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+<img src="https://visitor-badge.glitch.me/badge?page_id=dhananjay12.visitor-badge" alt="visitor badge"/>
+
+### 👨🏻‍💻 &nbsp;About Me 
 
 - 💡 I am a passionate self-taught programmer and think of myself as a lifelong learner.
 - ✍ In my free time, I write blogs on [djcodes.wordpress.com](https://djcodes.wordpress.com/), [stackabuse](https://stackabuse.com/author/dhananjay/), and as an anonymous writer on other platforms.
