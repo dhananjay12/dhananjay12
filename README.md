@@ -28,7 +28,7 @@
 <img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px">
 <img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px">
 <img title="Bash" src="https://www.cyberciti.biz/media/new/category/old/terminal.png" width="50px" style="border: 2px solid white">
-<img title="Solidity" src="https://docs.soliditylang.org/en/v0.8.1/_images/logo.svg" width="50px" style="border: 2px solid white">
+<img title="Solidity" src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" width="50px" style="border: 2px solid white">
 </div>
 
 ### Frameworks
