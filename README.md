@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 ### Languages
-
+<div>
 <img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
 <img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
 <img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 1px solid white">
@@ -26,6 +26,7 @@
 <img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px">
 <img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px">
 <img title="Solidity" src="https://docs.soliditylang.org/en/v0.8.1/_images/logo.svg" width="50px" style="border: 1px solid white">
+</div>
 
 ### Frameworks
 
