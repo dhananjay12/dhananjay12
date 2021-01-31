@@ -42,7 +42,6 @@
 <img title="Spring Project Reactor" src="https://pbs.twimg.com/profile_images/1235875169127796736/yuLH2iKt_400x400.png" width="50px" style="border: 1px solid white">
 <img title="Hibernate" src="https://hibernate.org//images/hibernate-logo.svg" width="50px" height="50px" style="border: 1px solid white">
 <img title="Spring Data" src="https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png" width="50px" height="50px" style="border: 1px solid white">
-<img title="Liquibase" src="https://www.liquibase.org/wp-content/uploads/sites/6/2020/05/Liquibase_community_logo_horizontal_RGB.png" width="50px" height="20px" style="border: 1px solid white">
 <img title="Flutter" src="https://logo.letskhabar.com/img?tool=flutter" width="50px">
 <img title="GraphQL" src="https://logo.letskhabar.com/img?tool=graphql" width="50px">
 <img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
@@ -55,6 +54,7 @@
 
 <div>
 <img title="MySql" src="https://logo.letskhabar.com/img?tool=mysql" width="50px">
+<img title="Liquibase" src="https://www.liquibase.org/wp-content/uploads/sites/6/2020/05/Liquibase_community_logo_horizontal_RGB.png" width="50px" height="20px" style="border: 1px solid white">
 <img title="ElasticSearch" src="https://logo.letskhabar.com/img?tool=elasticsearch" width="50px">
 <img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px">
 <img title="Oracle" src="https://logo.letskhabar.com/img?tool=oracle" width="50px">
