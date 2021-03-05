@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 
 - 💡 I am a passionate self-taught programmer and think of myself as a lifelong learner.
-- ✍ In my free time, I write blogs on [djcodes.wordpress.com](https://djcodes.wordpress.com/), [stackabuse](https://stackabuse.com/author/dhananjay/), and as an anonymous writer on other platforms.
 - 🌱 I believe that knowledge sharing is the ultimate form of learning.
+- ✍ In my free time, I write blogs on [djcodes.wordpress.com](https://djcodes.wordpress.com/), [stackabuse](https://stackabuse.com/author/dhananjay/), and as an anonymous writer on other platforms.
 
 ## ⚙ GitHub Analytics
 
@@ -49,7 +49,7 @@
 <img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
 <img title="gRPC" src="https://grpc.io/img/logos/grpc-icon-color.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="TestContainers" src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg" width="50px" height="40px" style="border: 1px solid white">
-<img title="AWS Serverless" src="https://solidstudio.io/img/blog/serverless/AWS_Lambda_logo.png?ver=1" width="50px" height="40px" style="border: 1px solid white">
+<img title="AWS Serverless" src="https://pbs.twimg.com/profile_images/877479427717902336/M2tspeaW_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
 </div>
 
 ### Databases and Events Streaming
@@ -63,7 +63,7 @@
 <img title="PostgresSql" src="https://logo.letskhabar.com/img?tool=postgresql" width="50px">
 <img title="MariaDB" src="https://logo.letskhabar.com/img?tool=mariadb" width="50px">
 <img title="RabbitMq" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80px" height="30px" style="border: 1px solid white">
-<img title="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width="40px" height="50px" style="border: 1px solid white">
+<img title="Kafka" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF_400x400.jpg" width="40px" height="50px" style="border: 1px solid white">
 <img title="Neo4j" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" width="50px" height="50px" style="border: 1px solid white">
 </div>
 
