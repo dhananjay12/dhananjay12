@@ -47,6 +47,7 @@
 <img title="Flutter" src="https://logo.letskhabar.com/img?tool=flutter" width="50px">
 <img title="GraphQL" src="https://logo.letskhabar.com/img?tool=graphql" width="50px">
 <img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
+  <img title="gRPC" src="https://rsocket.io/img/r-socket-pink.svg" width="50px" height="40px" style="border: 1px solid white">
 <img title="gRPC" src="https://grpc.io/img/logos/grpc-icon-color.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="TestContainers" src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg" width="50px" height="40px" style="border: 1px solid white">
 <img title="AWS Serverless" src="https://pbs.twimg.com/profile_images/877479427717902336/M2tspeaW_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
@@ -92,14 +93,14 @@
 <img title="Zipkin" src="https://pbs.twimg.com/profile_images/2284456438/8leuukuhknbc8fj0eg42_400x400.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="K6" src="https://k6.io/images/landscape-icon.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="Jmeter" src="https://pbs.twimg.com/profile_images/721661302196842496/8mAJQD05_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Filebeat" src="https://coralogix.com/wp-content/uploads/2018/04/Filebeat.jpg" width="50px" height="40px" style="border: 1px solid white">
+<img title="Filebeat" src="https://www.fluentd.org/images/miscellany/fluentd-logo.png" width="50px" height="40px" style="border: 1px solid white">
 </div>
 
 
 ### Other Stuffs
 
 <div>
-<img title="Maven" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/510px-Maven_logo.svg.png" height="20px" width="50px" style="border: 1px solid white">
+<img title="Maven" src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="20px" width="50px" style="border: 1px solid white">
 <img title="NPM" src="https://logo.letskhabar.com/img?tool=npm" width="50px" height="30px">
 <img title="Jhipster" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" width="50px" height="40px" style="border: 1px solid white">
 <img title="Debezium" src="https://pbs.twimg.com/profile_images/790917668517752832/IkKA5JgJ_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
