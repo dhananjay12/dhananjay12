@@ -80,7 +80,7 @@
 <img title="Helm" src="https://helm.sh/img/helm.svg" width="50px" height="50px" style="border: 1px solid white">
 <img title="FluxCD" src="https://pbs.twimg.com/profile_images/1331259245585690628/i-M9zkgc_400x400.jpg" width="50px" height="50px" style="border: 1px solid white">
 <img title="Istio" src="https://istio.io/latest/img/istio-whitelogo-bluebackground-unframed.svg" width="50px" height="50px" style="border: 1px solid white">
-<img title="Azure" src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg" width="50px" height="50px" style="border: 1px solid white">
+<img title="Azure" src="https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_400x400.jpg" width="50px" height="50px" style="border: 1px solid white">
 <img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="50px" height="50px" style="border: 1px solid white">
 <img title="GCP" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="50px" height="50px" style="border: 1px solid white">
 </div>
