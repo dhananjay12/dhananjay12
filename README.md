@@ -57,7 +57,7 @@
 <div>
 <img title="MySql" src="./images/database-events/mysql.png" width="50px" height="50px" style="background: white;">
 <img title="Liquibase" src="./images/database-events/liquidbase.png" width="50px" height="50px" >
-<img title="ElasticSearch" src="./images/database-events/elastic.png" width="50px" height="50px" style="background: white;">
+<img title="ElasticSearch" src="./images/database-events/elastic.jpeg" width="50px" height="50px" style="background: white;">
 <img title="MongoDB" src="./images/database-events/mongodb.png" width="50px" height="50px" style="background: white;">
 <img title="Oracle" src="./images/database-events/oracle-db.png" width="50px" height="50px">
 <img title="PostgresSql" src="./images/database-events/postgres.png" width="50px" height="50px">
@@ -71,7 +71,7 @@
 
 <div>
 <img title="Ethereum" src="./images/blockchain/ethereum.png" width="30px" height="50px" style="background: white;">
-<img title="Solidity" src="./images/blockchain/solidity.png" width="50px" height="50px" style="background: white;">
+<img title="Solidity" src="./images/blockchain/solidity.jpeg" width="50px" height="50px" style="background: white;">
 <img title="Chainlink" src="./images/blockchain/chainlink.png" width="70px" height="50px" >
 <img title="Hardhat" src="./images/blockchain/hardhat.png" width="50px" height="50px" >
 <img title="Truffle" src="./images/blockchain/truffle.png" width="50px" height="50px" >
@@ -101,7 +101,7 @@
 <img title="Gattling"  src="./images/monitoring/gattling.png" width="50px" height="50px">
 <img title="Prometheus" src="./images/monitoring/prometheus.png" width="50px" height="50px">
 <img title="Grafana" src="./images/monitoring/grafana.png" width="50px" height="50px">
-<img title="Zipkin" src="./images/monitoring/zipkin.svg" width="50px" height="50px" style="background: white;">
+<img title="Zipkin" src="./images/monitoring/zipkin.webp" width="50px" height="50px">
 <img title="K6" src="./images/monitoring/k6.png" width="50px" height="50px">
 <img title="Jmeter" src="./images/monitoring/jmeter.png" width="50px" height="50px">
 <img title="Fluentd" src="./images/monitoring/fluentd.jpeg" width="50px" height="50px">
