@@ -22,91 +22,102 @@
 ### Languages
 
 <div>
-<img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
-<img title="Javascript" src="https://logo.letskhabar.com/img?tool=javascript" width="50px">
-<img title="SQL" src="http://www.iconhot.com/icon/png/coded/64/sql-1.png" width="50px" style="border: 2px solid white">
-<img title="Typescript" src="https://logo.letskhabar.com/img?tool=typescript" width="50px">
-<img title="Scala" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" width="50px" height="50px" style="border: 2px solid white">
-<img title="Dart" src="https://logo.letskhabar.com/img?tool=dart" width="50px">
-<img title="Golang" src="https://logo.letskhabar.com/img?tool=golang" width="50px">
-<img title="Bash" src="https://www.cyberciti.biz/media/new/category/old/terminal.png" width="50px" style="border: 2px solid white">
-<img title="Solidity" src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" width="50px" style="border: 2px solid white">
+<img title="Java" src="./images/languages/java.png" width="50px" height="50px"> 
+<img title="Javascript" src="./images/languages/javascript.png" width="50px" height="50px">
+<img title="SQL" src="./images/languages/sql.png" width="50px" height="50px" style="border: 0px solid white">
+<img title="Typescript" src="./images/languages/typescript.png" width="50px" height="50px">
+<img title="Scala" src="./images/languages/scala.png" width="50px" height="50px" style="background: white;">
+<img title="Dart" src="./images/languages/dart.png" width="50px" height="50px" style="background: white;">
+<img title="Golang" src="./images/languages/go.png" width="50px" height="50px">
+<img title="Shell" src="./images/languages/shell.png" width="50px" height="50px">
 </div>
 
 ### Frameworks
 
 <div>
-<img title="Spring" src="https://logo.letskhabar.com/img?tool=spring" width="50px">
-<img title="Spring Boot" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50px" style="border: 1px solid white">
-<img title="Spring cloud" src="https://avatars.githubusercontent.com/u/8216893?s=200&v=4" width="50px" style="border: 1px solid white">
-<img title="Angular" src="https://logo.letskhabar.com/img?tool=angularjs" width="50px">
-<img title="Spring Security" src="https://pbs.twimg.com/profile_images/1235983944463585281/AWCKLiJh_400x400.png" width="50px" style="border: 1px solid white">
-<img title="Spring Project Reactor" src="https://pbs.twimg.com/profile_images/1235875169127796736/yuLH2iKt_400x400.png" width="50px" style="border: 1px solid white">
-<img title="Hibernate" src="https://hibernate.org//images/hibernate-logo.svg" width="50px" height="50px" style="border: 1px solid white">
-<img title="Spring Data" src="https://pbs.twimg.com/profile_images/1235945452304031744/w55Uc_O9_400x400.png" width="50px" height="50px" style="border: 1px solid white">
-<img title="Flutter" src="https://logo.letskhabar.com/img?tool=flutter" width="50px">
-<img title="GraphQL" src="https://logo.letskhabar.com/img?tool=graphql" width="50px">
-<img title="React" src="https://logo.letskhabar.com/img?tool=react" width="50px">
-  <img title="gRPC" src="https://rsocket.io/img/r-socket-pink.svg" width="50px" height="40px" style="border: 1px solid white">
-<img title="gRPC" src="https://grpc.io/img/logos/grpc-icon-color.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="TestContainers" src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg" width="50px" height="40px" style="border: 1px solid white">
-<img title="AWS Serverless" src="https://pbs.twimg.com/profile_images/877479427717902336/M2tspeaW_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
+<img title="Spring" src="./images/frameworks/spring.png" width="50px" height="50px">
+<img title="Spring Boot" src="./images/frameworks/spring-boot.png" width="50px" height="50px">
+<img title="Spring cloud" src="./images/frameworks/spring-cloud.png" width="50px" height="50px">
+<img title="Angular" src="./images/frameworks/angular.png" width="50px" height="50px">
+<img title="Spring Security" src="./images/frameworks/spring-security.png" width="50px" height="50px">
+<img title="Spring Project Reactor" src="./images/frameworks/spring-reactor.png" width="50px" height="50px">
+<img title="Hibernate" src="./images/frameworks/hibernate.png" width="50px" height="50px">
+<img title="Spring Data" src="./images/frameworks/spring-data.png" width="50px" height="50px">
+<img title="Flutter" src="./images/frameworks/flutter.png" width="50px" height="50px">
+<img title="GraphQL" src="./images/frameworks/graphql.png" width="50px" height="50px">
+<img title="React" src="./images/frameworks/react.svg" width="50px" height="50px">
+<img title="RSocket" src="./images/frameworks/rsocket.jpeg" width="50px" height="50px">
+<img title="gRPC" src="./images/frameworks/grpc.png" wwidth="50px" height="50px" style="background: white;">
+<img title="TestContainers" src="./images/frameworks/testcontainer.png" width="50px" height="50px">
+<img title="Serverless" src="./images/frameworks/lambda.png" width="50px" height="50px">
 </div>
 
-### Databases and Events Streaming
+### Databases and Events  
 
 <div>
-<img title="MySql" src="https://logo.letskhabar.com/img?tool=mysql" width="50px">
-<img title="Liquibase" src="https://www.liquibase.org/wp-content/uploads/sites/6/2020/05/Liquibase_community_logo_horizontal_RGB.png" width="50px" height="20px" style="border: 1px solid white">
-<img title="ElasticSearch" src="https://logo.letskhabar.com/img?tool=elasticsearch" width="50px">
-<img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px">
-<img title="Oracle" src="https://logo.letskhabar.com/img?tool=oracle" width="50px">
-<img title="PostgresSql" src="https://logo.letskhabar.com/img?tool=postgresql" width="50px">
-<img title="MariaDB" src="https://logo.letskhabar.com/img?tool=mariadb" width="50px">
-<img title="RabbitMq" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80px" height="30px" style="border: 1px solid white">
-<img title="Kafka" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF_400x400.jpg" width="40px" height="50px" style="border: 1px solid white">
-<img title="Neo4j" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" width="50px" height="50px" style="border: 1px solid white">
+<img title="MySql" src="./images/database-events/mysql.png" width="50px" height="50px" style="background: white;">
+<img title="Liquibase" src="./images/database-events/liquidbase.png" width="50px" height="50px" >
+<img title="ElasticSearch" src="./images/database-events/elastic.png" width="50px" height="50px" style="background: white;">
+<img title="MongoDB" src="./images/database-events/mongodb.png" width="50px" height="50px" style="background: white;">
+<img title="Oracle" src="./images/database-events/oracle-db.png" width="50px" height="50px">
+<img title="PostgresSql" src="./images/database-events/postgres.png" width="50px" height="50px">
+<img title="MariaDB" src="./images/database-events/mariadb.jpeg" width="50px" height="50px">
+<img title="RabbitMq" src="./images/database-events/rabbitmq.png" width="50px" height="50px">
+<img title="Kafka" src="./images/database-events/kafka.jpeg" width="50px" height="50px">
+<img title="Neo4j" src="./images/database-events/neo4j.png" width="50px" height="50px" style="background: white;">
+</div>
+
+### Bockchains and frameworks
+
+<div>
+<img title="Ethereum" src="./images/blockchain/ethereum.png" width="30px" height="50px" style="background: white;">
+<img title="Solidity" src="./images/blockchain/solidity.png" width="50px" height="50px" style="background: white;">
+<img title="Chainlink" src="./images/blockchain/chainlink.png" width="70px" height="50px" >
+<img title="Hardhat" src="./images/blockchain/hardhat.png" width="50px" height="50px" >
+<img title="Truffle" src="./images/blockchain/truffle.png" width="50px" height="50px" >
+<img title="Web3.js" src="./images/blockchain/web3-js.jpeg" width="50px" height="50px" >
 </div>
 
 ### CI/CD and DevOps
 
 <div>
-<img title="Jenkins" src="https://logo.letskhabar.com/img?tool=jenkins" width="50px">
-<img title="Travis" src="https://logo.letskhabar.com/img?tool=travis" width="50px">
-<img title="Github Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px">
-<img title="GitLab" src="https://pbs.twimg.com/profile_images/1447275762738941961/wGTPEw7B_400x400.jpg" width="50px">
-<img title="Docker" src="https://logo.letskhabar.com/img?tool=docker" width="50px">
-<img title="Kubernetes" src="https://logo.letskhabar.com/img?tool=kubernetes" width="50px">
-<img title="Helm" src="https://helm.sh/img/helm.svg" width="50px" height="50px" style="border: 1px solid white">
-<img title="FluxCD" src="https://pbs.twimg.com/profile_images/1331259245585690628/i-M9zkgc_400x400.jpg" width="50px" height="50px" style="border: 1px solid white">
-<img title="Istio" src="https://istio.io/latest/img/istio-whitelogo-bluebackground-unframed.svg" width="50px" height="50px" style="border: 1px solid white">
-<img title="Azure" src="https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_400x400.jpg" width="50px" height="50px" style="border: 1px solid white">
-<img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="50px" height="50px" style="border: 1px solid white">
-<img title="GCP" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="50px" height="50px" style="border: 1px solid white">
+<img title="Jenkins" src="./images/devops/jenkins.png" width="50px" height="50px">
+<img title="Travis" src="./images/devops/travis.png" width="50px" height="50px">
+<img title="Github Actions" src="./images/devops/github-actions.png" width="50px" height="50px">
+<img title="GitLab" src="./images/devops/gitlab.png" width="50px" height="50px">
+<img title="Docker" src="./images/devops/docker.png" width="50px" height="50px">
+<img title="Kubernetes" src="./images/devops/kubernetes.png" width="50px" height="50px">
+<img title="Helm" src="./images/devops/helm.png" width="50px" height="50px" style="background: white;">
+<img title="FluxCD" src="./images/devops/flux.png" width="50px" height="50px" style="background: white;">
+<img title="Istio" src="./images/devops/istio.png" width="40px" height="50px">
+<img title="Azure" src="./images/devops/azure.png" width="50px" height="50px">
+<img title="AWS" src="./images/devops/aws.png" width="50px" height="50px" style="background: white;">
+<img title="GCP" src="./images/devops/google.png" width="50px" height="50px">
 </div>
 
 ### Performance and Monitoring Tools
 
 <div>
-<img title="Gattling" src="https://gatling.io/wp-content/uploads/2019/06/Gatling-new-design.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="Prometheus" src="https://assets-global.website-files.com/5936cb8d0ccd8d78aca827c5/5a8c3ea383182b000179d38a_256x256%20webclip_webclip.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="Grafana" src="https://pbs.twimg.com/profile_images/1204869696132190212/HxPK_45O_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Zipkin" src="https://pbs.twimg.com/profile_images/2284456438/8leuukuhknbc8fj0eg42_400x400.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="K6" src="https://k6.io/images/landscape-icon.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="Jmeter" src="https://pbs.twimg.com/profile_images/721661302196842496/8mAJQD05_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Filebeat" src="https://www.fluentd.org/images/miscellany/fluentd-logo.png" width="50px" height="40px" style="border: 1px solid white">
+<img title="Gattling"  src="./images/monitoring/gattling.png" width="50px" height="50px">
+<img title="Prometheus" src="./images/monitoring/prometheus.png" width="50px" height="50px">
+<img title="Grafana" src="./images/monitoring/grafana.png" width="50px" height="50px">
+<img title="Zipkin" src="./images/monitoring/zipkin.svg" width="50px" height="50px" style="background: white;">
+<img title="K6" src="./images/monitoring/k6.png" width="50px" height="50px">
+<img title="Jmeter" src="./images/monitoring/jmeter.png" width="50px" height="50px">
+<img title="Fluentd" src="./images/monitoring/fluentd.jpeg" width="50px" height="50px">
+<img title="Kibana" src="./images/monitoring/kibana.png" width="50px" height="50px">
 </div>
 
 
 ### Other Stuffs
 
 <div>
-<img title="Maven" src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="20px" width="50px" style="border: 1px solid white">
-<img title="NPM" src="https://logo.letskhabar.com/img?tool=npm" width="50px" height="30px">
-<img title="Jhipster" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="Debezium" src="https://pbs.twimg.com/profile_images/790917668517752832/IkKA5JgJ_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Keycloak" src="https://aws1.discourse-cdn.com/free1/uploads/keycloak/original/1X/eb342909d95cf32cbb7517610022c6a0046a9ffb.png" width="50px" height="40px" style="border: 1px solid white">
-<img title="OpenAPI" src="https://pbs.twimg.com/profile_images/950508436935995393/L8C2-2bd_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Postman" src="https://pbs.twimg.com/profile_images/1420733347131756549/cNnhvGE9_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<img title="Sonarqube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="70px" height="40px" style="border: 1px solid white">
+<img title="Maven" src="./images/others/maven.png" width="50px" height="50px" style="background: white;">
+<img title="NPM" src="./images/others/npm.png" width="50px" height="50px">
+<img title="Jhipster" src="./images/others/jhipster.png" width="50px" height="50px" style="background: white;">
+<img title="Debezium" src="./images/others/debezium.jpeg" width="50px" height="50px">
+<img title="Keycloak" src="./images/others/keycloak.png" width="50px" height="50px" style="background: white;">
+<img title="OpenAPI" src="./images/others/openapi.png" width="50px" height="50px">
+<img title="Postman" src="./images/others/postman.png" width="50px" height="50px">
+<img title="Sonarqube" src="./images/others/sonarqube.png" width="50px" height="50px">
 </div>
