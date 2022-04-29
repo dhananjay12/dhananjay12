@@ -52,19 +52,20 @@
 <img title="Serverless" src="./images/frameworks/lambda.png" width="50px" height="50px">
 </div>
 
-### Databases and Events  
+### Data Layers  
 
 <div>
-<img title="MySql" src="./images/database-events/mysql.png" width="50px" height="50px" style="background: white;">
-<img title="Liquibase" src="./images/database-events/liquidbase.png" width="50px" height="50px" >
-<img title="ElasticSearch" src="./images/database-events/elastic.jpeg" width="50px" height="50px" style="background: white;">
-<img title="MongoDB" src="./images/database-events/mongodb.png" width="50px" height="50px" style="background: white;">
-<img title="Oracle" src="./images/database-events/oracle-db.png" width="50px" height="50px">
-<img title="PostgresSql" src="./images/database-events/postgres.png" width="50px" height="50px">
-<img title="MariaDB" src="./images/database-events/mariadb.jpeg" width="50px" height="50px">
-<img title="RabbitMq" src="./images/database-events/rabbitmq.png" width="50px" height="50px">
-<img title="Kafka" src="./images/database-events/kafka.jpeg" width="50px" height="50px">
-<img title="Neo4j" src="./images/database-events/neo4j.png" width="50px" height="50px" style="background: white;">
+<img title="MySql" src="./images/data-layers/mysql.png" width="50px" height="50px" style="background: white;">
+<img title="Liquibase" src="./images/data-layers/liquidbase.png" width="50px" height="50px" >
+<img title="Redis" src="./images/data-layers/redis.png" width="50px" height="50px" >
+<img title="ElasticSearch" src="./images/data-layers/elastic.jpeg" width="50px" height="50px" style="background: white;">
+<img title="MongoDB" src="./images/data-layers/mongodb.png" width="50px" height="50px" style="background: white;">
+<img title="Oracle" src="./images/data-layers/oracle-db.png" width="50px" height="50px">
+<img title="PostgresSql" src="./images/data-layers/postgres.png" width="50px" height="50px">
+<img title="MariaDB" src="./images/data-layers/mariadb.jpeg" width="50px" height="50px">
+<img title="RabbitMq" src="./images/data-layers/rabbitmq.png" width="50px" height="50px">
+<img title="Kafka" src="./images/data-layers/kafka.jpeg" width="50px" height="50px">
+<img title="Neo4j" src="./images/data-layers/neo4j.png" width="50px" height="50px" style="background: white;">
 </div>
 
 ### Bockchains and frameworks
