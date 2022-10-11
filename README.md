@@ -27,9 +27,10 @@
 <img title="SQL" src="./images/languages/sql.png" width="50px" height="50px" style="border: 0px solid white">
 <img title="Typescript" src="./images/languages/typescript.png" width="50px" height="50px">
 <img title="Kotlin" src="./images/languages/kotlin.png" width="50px" height="50px">
+<img title="Rust" src="./images/languages/rust.png" width="50px" height="50px">
+<img title="Golang" src="./images/languages/go.png" width="50px" height="50px">
 <img title="Scala" src="./images/languages/scala.png" width="50px" height="50px" style="background: white;">
 <img title="Dart" src="./images/languages/dart.jpeg" width="50px" height="50px" style="background: white;">
-<img title="Golang" src="./images/languages/go.png" width="50px" height="50px">
 <img title="Shell" src="./images/languages/shell.png" width="50px" height="50px">
 </div>
 
